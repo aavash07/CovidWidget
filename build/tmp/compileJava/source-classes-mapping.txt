@@ -1,0 +1,22 @@
+com/aavash/dataFetch/Model/CountryData.java
+ com.aavash.dataFetch.Model.CountryData
+com/aavash/gui/Launch.java
+ com.aavash.gui.Launch
+com/aavash/gui/widget/WidgetController.java
+ com.aavash.gui.widget.WidgetController
+com/aavash/dataFetch/Model/CovidDataModel.java
+ com.aavash.dataFetch.Model.CovidDataModel
+com/aavash/Main.java
+ com.aavash.Main
+com/aavash/dataFetch/Model/GlobalData.java
+ com.aavash.dataFetch.Model.GlobalData
+com/aavash/dataFetch/DataProviderService.java
+ com.aavash.dataFetch.DataProviderService
+ com.aavash.dataFetch.DataProviderService$1
+ com.aavash.dataFetch.DataProviderService$2
+com/aavash/config/ConfigModel.java
+ com.aavash.config.ConfigModel
+com/aavash/dataFetch/CovidAPI.java
+ com.aavash.dataFetch.CovidAPI
+com/aavash/config/ConfigurationService.java
+ com.aavash.config.ConfigurationService
